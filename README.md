@@ -1,1 +1,1 @@
-# C3_SimpleBashUtils
+# SimpleBashUtils
